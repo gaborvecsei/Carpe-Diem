@@ -1,4 +1,4 @@
-# Carpe Diem
+# Carpe Diem Plot Generator
 
 Script which can remind you to don't waste time on unnecessary, pointless things
 
@@ -15,3 +15,10 @@ Other than that it is fcking useless :smirk: :sweat_smile:
 `> carpe_diem --age 24`
 
 `> carpe_diem --age 24 --output /home/my_user/my_mortality_plot.png`
+
+## todo
+
+- [x] matplotlib plot
+- [ ] ascii plot
+- [ ] emoji markdown
+- [ ] heatmap for expected lifetime
