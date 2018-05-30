@@ -2,6 +2,8 @@
 
 Script which can remind you to don't waste time on unnecessary, pointless things
 
+Other than that it is fcking useless :smirk: :sweat_smile:
+
 ![test-image](art/plot.png)
 
 ## Install
